@@ -73,7 +73,7 @@ class _HomeState extends State<Home> {
                     if (value >= 0.5 && value <= 2.4) {
                       return null;
                     }
-                    return 'Digite um valor de altura válido em matros';
+                    return 'Digite um valor de altura válido em metros';
                   },
                 ),
               ),
